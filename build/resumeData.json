@@ -1,0 +1,186 @@
+{
+  "main": {
+    "name": "Sanathkumar Adavayya Swamy",
+    "occupation": "recent computer science graduate",
+    "description": "Welcome to My Space!",
+    "image": "profilepic.jpg",
+    "bio": "I am enthusiastic and highly motivated computer savvy, and I have a massive passion for Software Engineering and Artificial Intelligence areas of computer science. Over the years, I have widened my knowledge by completing multiple personal and class projects using programming languages such as Python, Java, C++ and JavaScript. Apart from the projects, one of my hobbies is exploring and researching cutting-edge technologies such as blockchain, nanotechnology, conversational AI, and robotics.",
+    "contactmessage": "Please feel free to contact me about any open oppurtunites or share a thought about my work!",
+    "email": "sanathkumar5671@gmail.com",
+    "phone": "+61(0)434-564-990",
+    "address": {
+      "street": "550 Lygon Street, Carlton",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "zip": "3053"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1OSwHtPe7IwFm2bfVHAi5to-mPh4LnLFZ/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100012630317156",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/sanath53",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sanathkumar-a-990549136/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sanath7397/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sanathkumar5671",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I like to play around with different object oriented programming languages, frameworks and tools. But here are few of them interests me the most.",
+    "education": [
+      {
+        "school": "University of Melbourne",
+        "degree": "Masters of Computer Science",
+        "graduated": "December 2021",
+        "description": "Modules Included: Machine Learning, Distributed Computing, Information Visualization. I was awarded Melbourne School of Engineering Scholarship for high achiving grades"
+      },
+      {
+        "school": "Christ University",
+        "degree": "Bachelors of Technology in Computer Science and Engineering",
+        "graduated": "May 2019",
+        "description": "Modules Included: Engineering Mathematics, Physics, Robotics, Software Engineering, Data Structures and Algorithms. My thesis was on Security Enhancement of Smart Lock Systems and Automating Access Control Using BlockChain Technology and I achived a GPA of 8.01 out of 10."
+      }
+    ],
+    "work": [
+      {
+        "company": "Common Purpose",
+        "title": "Universitas 21 Global Citizenship Program Participant",
+        "years": "March 2020 - May 2020",
+        "description": "Completion of Global Citizenship – an experiential asynchronous course where I advanced the UN Sustainable Development Goals, and gained a Pass grade for each of the skills assessments."
+      },
+      {
+        "company": "Basaveshwara Rural & Urban Development Trust",
+        "title": "Data Scientist Intern ",
+        "years": "June 2019 - December 2019",
+        "description": "Coded and performed various data cleaning and pre-processing techniques on a geo spatial dataset for India's rural area and designed a map utilizing Map box tool and JavaScript Programming. Programming Languages and Tools used: Tableau, Map Box, Python, JavaScript."
+      },
+      {
+        "company": "Beehyv Technology PLT ",
+        "title": "Software Developer Intern ",
+        "years": "April 2018 - June 2018",  
+        "description": "Led a group of interns in developing a prototype website utilizing ReactJS for a client. Developed a real-time database to update the website using Firebase. Programming language and tools used: JavaScript, Firebase."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "C++",
+        "level": "50%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "R-Programming",
+        "level": "60%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      },
+      {
+        "name": "Jquery",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJS (JavaScript)",
+        "level": "75%"
+      },
+      {
+        "name": "Django Framework (Python)",
+        "level": "80%"
+      },
+      {
+        "name": "Tensorflow Framework (Machine Learning)",
+        "level": "80%"
+      },
+      {
+        "name": "Tableau",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Detection of Deepfake on Social Media",
+        "category": "Masters Thesis",
+        "image": "deepfake.jpeg",
+        "url": "https://github.com/sanathkumar5671/Deepfake_research_project"
+      },
+      {
+        "title": "Mapbox project for Kid Tourist",
+        "category": "Masters Project",
+        "image": "mapbox.png",
+        "url": "https://github.com/sanathkumar5671/Kid_GO"
+      },
+      {
+        "title": "Data Visualisation with Tableau",
+        "category": "Data Visualisation",
+        "image": "IV-A2.png",
+        "url": "https://github.com/sanathkumar5671/Data_Visualisation_with_Tableau"
+      },
+      {
+        "title": "Predict Attrition",
+        "category": "Machine Learning",
+        "image": "AttributeRelationShip.png",
+        "url": "https://github.com/sanathkumar5671/predict_attrition"
+      },
+      {
+        "title": "Resume Website",
+        "category": "ReactJS",
+        "image": "website.png",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Romance or Thriller Movie Genre Prediction from Audio Visual and Text Features",
+        "category": "Machine Learning",
+        "image": "ML.png",
+        "url": "https://github.com/sanathkumar5671/Romance-or-Thriller-Movie-Genre-Prediction-from-Audio-Visual-and-Text-Features"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not.",
+        "user": "Elon Musk"
+      },
+      {
+        "text": "If you decide that you’re going to do only the things you know are going to work, you’re going to leave a lot of opportunity on the table.",
+        "user": "Jeff Bezos"
+      }
+    ]
+  }
+}
