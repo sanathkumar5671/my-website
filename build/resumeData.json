@@ -15,7 +15,7 @@
       "zip": "3053"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/file/d/1OSwHtPe7IwFm2bfVHAi5to-mPh4LnLFZ/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1wfzOl2BuBA-KjI26L-Bw71kVgQvv2FER/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -51,16 +51,22 @@
         "school": "University of Melbourne",
         "degree": "Masters of Computer Science",
         "graduated": "December 2021",
-        "description": "Modules Included: Machine Learning, Distributed Computing, Information Visualization. I was awarded Melbourne School of Engineering Scholarship for high achiving grades"
+        "description": "Achieved a WAM - 74/100. Modules Included: Machine Learning, Distributed Computing, Information Visualization. I was awarded Melbourne School of Engineering Scholarship for high achiving grades"
       },
       {
         "school": "Christ University",
         "degree": "Bachelors of Technology in Computer Science and Engineering",
         "graduated": "May 2019",
-        "description": "Modules Included: Engineering Mathematics, Physics, Robotics, Software Engineering, Data Structures and Algorithms. My thesis was on Security Enhancement of Smart Lock Systems and Automating Access Control Using BlockChain Technology and I achived a GPA of 8.01 out of 10."
+        "description": "Achieved GPA - 8.09/10. Modules Included: Engineering Mathematics, Physics, Robotics, Software Engineering, Data Structures and Algorithms. My thesis was on Security Enhancement of Smart Lock Systems and Automating Access Control Using BlockChain Technology and I achived a GPA of 8.01 out of 10."
       }
     ],
     "work": [
+      {
+        "company": "Blue Square Tech Solutions",
+        "title": "Web Developer Intern",
+        "years": "Jan 2022 - Present",
+        "description": "Fixed bugs in frontend and Backed, Built the WordPress themes and worked on various plugins. BuiltReact components in a Agile Methodology."
+      },
       {
         "company": "Common Purpose",
         "title": "Universitas 21 Global Citizenship Program Participant",
@@ -68,7 +74,7 @@
         "description": "Completion of Global Citizenship – an experiential asynchronous course where I advanced the UN Sustainable Development Goals, and gained a Pass grade for each of the skills assessments."
       },
       {
-        "company": "Basaveshwara Rural & Urban Development Trust",
+        "company": "BR&UD Trust",
         "title": "Data Scientist Intern ",
         "years": "June 2019 - December 2019",
         "description": "Coded and performed various data cleaning and pre-processing techniques on a geo spatial dataset for India's rural area and designed a map utilizing Map box tool and JavaScript Programming. Programming Languages and Tools used: Tableau, Map Box, Python, JavaScript."
